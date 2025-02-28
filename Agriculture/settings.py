@@ -30,7 +30,7 @@ SECRET_KEY = 'p_cvnmw4-*-&rm7n^gbp__+q8tcruq=t7j9!v&vd&rrajvp5zt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['agri-management.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['agri-management-1.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
